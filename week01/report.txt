@@ -1,0 +1,2 @@
+for week1, we are learning all about scripting, push and pull,
+and many useful commands and things
