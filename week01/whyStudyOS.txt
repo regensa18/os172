@@ -1,2 +1,3 @@
 #regensa18
 
+I want to study OS to fully understand what is a computer
